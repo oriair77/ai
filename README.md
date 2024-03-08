@@ -1,0 +1,2 @@
+# ai
+say hi
